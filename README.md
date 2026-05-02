@@ -1,4 +1,4 @@
-# Big Data Architecture Labs — Code Format
+# Big Data Architecture Labs
 
 This repository contains Big Data Architecture lab solutions organized in code-file format.
 
