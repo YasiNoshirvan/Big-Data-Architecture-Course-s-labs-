@@ -12,47 +12,6 @@ The labs are divided into two main folders:
 
 ---
 
-## Repository Structure
-
-```text
-Big_Data_Architecture_Labs_Code_Format/
-│
-├── Hadoop_Java/
-│   ├── Lab01MapReduce.java
-│   ├── Lab02MapReduce.java
-│   └── ...
-│
-├── PySpark/
-│   ├── lab_01_pyspark.py
-│   ├── lab_02_pyspark.py
-│   └── ...
-│
-└── README.md
-```
-
----
-
-## Lab Overview
-
-| Lab | Hadoop / MapReduce | PySpark |
-|---:|:---:|:---:|
-| Lab 01 | Yes | Yes |
-| Lab 02 | Yes | Yes |
-| Lab 03 | Yes | Yes |
-| Lab 04 | Yes | Yes |
-| Lab 05 | Yes | Yes |
-| Lab 06 | Yes | Yes |
-| Lab 07 | Yes | Yes |
-| Lab 08 | Yes | Yes |
-| Lab 09 | Yes | Yes |
-| Lab 10 | Yes | No |
-| Lab 11 | Yes | Yes |
-| Lab 12 | Yes | Yes |
-| Lab 13 | Yes | Yes |
-| Lab 14 | Yes | Yes |
-
----
-
 ## Topics Covered
 
 - Hadoop MapReduce
