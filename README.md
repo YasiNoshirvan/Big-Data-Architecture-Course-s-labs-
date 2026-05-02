@@ -7,8 +7,6 @@ The labs are divided into two main folders:
 - `Hadoop_Java/` — Java-style Hadoop / MapReduce solution notes
 - `PySpark/` — PySpark solution notes
 
-> Note: The original material was typed as study notes / pseudo-code.  
-> The files are organized with `.java` and `.py` extensions for better GitHub readability and syntax highlighting, but some files may require syntax cleanup before execution.
 
 ---
 
